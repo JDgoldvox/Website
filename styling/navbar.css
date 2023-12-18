@@ -1,0 +1,47 @@
+.navbar {
+    background-color: orange; /* Change the background color */
+    color: white; /* Change the text color */
+    font-family: calibri;
+}
+
+.navbar a {
+    color: white; /* Change the link color */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.navdiv {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.logo {
+    margin-right: auto; /* Pushes everything else to the right */
+}
+
+.logo a {
+    font-weight: bold; /* Make the logo text bold */
+    font-size: 18px; /* Increase the font size */
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    justify-content: center; /* Center the list items */
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    width: 100%; /* Take full width of its container */
+    flex-grow: 1; /* Allows the list to grow and take available space */
+}
+
+li {
+    padding-right: 25px; /* Space between items */
+    display: inline-block;
+}
