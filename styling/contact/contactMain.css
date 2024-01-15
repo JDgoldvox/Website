@@ -1,0 +1,21 @@
+header{
+    background-color: #A37964;
+}
+
+body{
+    background-color: #A37964;
+}
+
+.centreDiv{
+    text-align: center;
+}
+
+.centreDiv img{
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin: 10px; /* Optional: Add margin between images */
+}
+
+.centreDiv p{
+    padding-bottom: 40px;
+}
