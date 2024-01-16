@@ -9,3 +9,14 @@ body {
     line-height: 1.6;
     background-color: #f4f4f4;
 }
+
+section img{
+    width: 150px;
+    height: auto;
+    display: block;
+    margin-top: 100px;
+}
+
+section{
+    margin: 10%;
+}

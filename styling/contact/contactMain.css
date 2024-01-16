@@ -8,12 +8,13 @@ body{
 
 .centreDiv{
     text-align: center;
+    justify-content: center;
 }
 
 .centreDiv img{
     width: 100px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
-    margin: 10px; /* Optional: Add margin between images */
+    padding: 10px; /* Optional: Add margin between images */
 }
 
 .centreDiv p{
