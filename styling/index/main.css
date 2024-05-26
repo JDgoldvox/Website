@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'barlow';
+    src: url('../../fonts/Barlow-Medium.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -10,13 +15,33 @@ body {
     background-color: #f4f4f4;
 }
 
-section img{
-    width: 150px;
-    height: auto;
-    display: block;
-    margin-top: 100px;
+section{
+    font-family: 'barlow';
+    font-size: large;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 200px; 
+    margin-bottom: 20px;
 }
 
-section{
-    margin: 10%;
+h1{
+    font-size: 200px;
+    font-family: 'ubuntu-title';
+}
+
+h2{
+    font-size: 100px;
+    font-family: 'ubuntu-title';
+}
+
+.fruit-image-right{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+
+.fruit-image-left{
+    width: 300px;
+    height: 300px;
+    float: left;
 }
