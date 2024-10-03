@@ -1,0 +1,11 @@
+.pushLeft{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.pushRight{
+    width: 50%;
+    height: 100%;
+    float: right;
+}

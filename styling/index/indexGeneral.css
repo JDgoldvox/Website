@@ -1,0 +1,38 @@
+.introductionText{
+    font-size: 250%;
+    padding-bottom: 300px;
+    
+}
+
+.introductionTitle{
+    font-size: 2000%;
+    padding-top: 200px;
+}
+
+.titleSectionLeft{
+    text-align: start;
+}
+
+.titleSectionRight{
+    text-align: end;
+}
+
+.GeneralSection{
+    padding-bottom: 100px;
+}
+
+.imageToTextAlignment{
+    display: flex;
+    column-gap: 2%;
+}
+
+.align33Image{
+    flex-basis: 33%; /* Image container takes 33% of the row */
+    font-size: 200%;
+}
+
+.align66Text{
+    flex-basis: 66%; /* Text container takes up the remaining 66% */
+    font-size: 200%;
+}   
+

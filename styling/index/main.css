@@ -12,16 +12,14 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #FFC04C;
 }
 
 section{
     font-family: 'barlow';
-    font-size: large;
+    /* font-size: large; */
     margin-left: 10%;
     margin-right: 10%;
-    margin-top: 200px; 
-    margin-bottom: 20px;
 }
 
 h1{
@@ -36,12 +34,12 @@ h2{
 
 .fruit-image-right{
     width: 300px;
-    height: 300px;
-    float: right;
+    height: auto;
+    float: left;
 }
 
 .fruit-image-left{
     width: 300px;
-    height: 300px;
-    float: left;
+    height: auto;
+    float: right;
 }
