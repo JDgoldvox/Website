@@ -45,3 +45,12 @@ h2{
     height: auto;
     float: right;
 }
+
+footer{
+    padding: 100px;
+    font-family: 'barlow';
+    text-align: center;
+    font-weight: 900;
+    font-size: 150%;
+    margin-top: auto;
+}

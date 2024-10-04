@@ -1,11 +1,11 @@
 .introductionText{
-    font-size: 250%;
+    font-size: 180%;
     padding-bottom: 300px;
     
 }
 
 .introductionTitle{
-    font-size: 2000%;
+    font-size: 1600%;
 }
 
 .titleSectionLeft{
@@ -27,11 +27,11 @@
 
 .align33Image{
     flex-basis: 33%; /* Image container takes 33% of the row */
-    font-size: 200%;
+    font-size: 160%;
 }
 
 .align66Text{
     flex-basis: 66%; /* Text container takes up the remaining 66% */
-    font-size: 200%;
+    font-size: 160%;
 }   
 

@@ -4,13 +4,13 @@
 }
 
 .centreDiv p{
-    padding-bottom: 40px;
-    font-size: 200%;
+    padding-bottom: 20px;
+    font-size: 160%;
     font-weight: 900;
 }
 
 .customImage{
-    width: 200px;
+    width: 160px;
     height: auto;
-    padding: 10px; /* Optional: Add margin between images */
+    padding: 6px; /* Optional: Add margin between images */
 }

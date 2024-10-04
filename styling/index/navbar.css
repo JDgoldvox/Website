@@ -12,7 +12,7 @@
 .navbar a {
     color: white; /* Change the link color */
     text-decoration: none; /* Remove underline from links */
-    font-size: 140%;
+    font-size: 120%;
 }
 
 .navbar a:hover {
