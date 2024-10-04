@@ -3,12 +3,14 @@
     justify-content: center;
 }
 
-.centreDiv img{
-    width: 100px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-    padding: 10px; /* Optional: Add margin between images */
-}
-
 .centreDiv p{
     padding-bottom: 40px;
+    font-size: 200%;
+    font-weight: 900;
+}
+
+.customImage{
+    width: 200px;
+    height: auto;
+    padding: 10px; /* Optional: Add margin between images */
 }

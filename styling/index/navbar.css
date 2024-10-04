@@ -4,19 +4,22 @@
   }
 
 .navbar {
-    background-color: orange; /* Change the background color */
-    color: white; /* Change the text color */
+    color: white; /*text*/
     font-family: 'ubuntu-title';
+    padding-bottom: 100px;
 }
 
 .navbar a {
     color: white; /* Change the link color */
     text-decoration: none; /* Remove underline from links */
+    font-size: 140%;
 }
 
 .navbar a:hover {
-    background-color: #ddd;
-    color: black;
+    font-size: 200%; /* Size on hover */
+    font-weight: 900;
+    text-shadow:  10px 10px 2px rgba(117, 72, 17, 0.532),
+    2px 2px 0px black;
 }
 
 .navdiv {
@@ -27,12 +30,12 @@
 
 .logo {
     margin-right: auto; /* Pushes everything else to the right */
+    padding-left: 2%;
 }
 
 .logo a {
     font-weight: bold; /* Make the logo text bold */
     font-size: 18px; /* Increase the font size */
-    color: white;
     text-decoration: none;
 }
 
@@ -47,7 +50,7 @@ ul {
 }
 
 li {
-    padding-right: 50px; /* Space between items */
+    padding-right: 80px; /* Space between items */
     display: inline-block;
     font-size: 200%;
 }
@@ -56,10 +59,11 @@ li {
     white-space: nowrap;
     margin-right: 100px;
     font-family: 'ubuntu-title';
-    font-size: 300%;
+    font-size: 400%;
 }
 
 .logo img{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: auto;
+    padding-right: 10%;
 }

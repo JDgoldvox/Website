@@ -13,11 +13,13 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-color: #FFC04C;
+    background-image: linear-gradient(orange 10%, #FFC04C 20%); /*saying, make that change for 5% and make that change at 20%"*/
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 
 section{
     font-family: 'barlow';
-    /* font-size: large; */
     margin-left: 10%;
     margin-right: 10%;
 }

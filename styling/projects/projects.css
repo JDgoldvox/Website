@@ -2,10 +2,12 @@
     width: 50%;
     height: 100%;
     float: left;
+    padding-left: 5%;
 }
 
 .pushRight{
     width: 50%;
     height: 100%;
     float: right;
+    padding-right: 5%;
 }
