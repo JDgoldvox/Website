@@ -27,11 +27,11 @@
 
 .align33Image{
     flex-basis: 33%; /* Image container takes 33% of the row */
-    font-size: 160%;
+    font-size: 140%;
 }
 
 .align66Text{
     flex-basis: 66%; /* Text container takes up the remaining 66% */
-    font-size: 160%;
+    font-size: 140%;
 }   
 
